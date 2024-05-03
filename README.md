@@ -5,7 +5,7 @@ I am a machine learning engineer 🤖 with 4+ years of experience in data relate
 
 I often spend time talking to my data, uncovering its hidden stories and unlocking its potential.
 
-Things I know:
+### Things I know:
 <p>
     <img alt="Python" src="https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python" /> <img alt="R" src="https://img.shields.io/badge/R-blue?style=for-the-badge&logo=R&logoColor=white" /> <img alt="pytorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
     <img alt="tensorflow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
